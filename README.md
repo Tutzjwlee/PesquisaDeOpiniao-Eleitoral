@@ -3,7 +3,6 @@
 Este repositório contém a entrega final do projeto de Ciência de Dados, dividido em duas frentes principais de estudo: **Pesquisas de Opinião** (com foco em memória eleitoral e engajamento) e **Séries Temporais**.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 ---
