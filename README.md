@@ -77,5 +77,6 @@ Em conformidade com as diretrizes do projeto, declaramos o uso de ferramentas de
 - Auxílio na refatoração e otimização de funções Python.
 - Revisão gramatical de partes do texto final.
 - Ajuda na criação dos slides e do roteiro do video (Uso estético, gramatical e organizacional da estrutura dos slide e apresentções)
+- Auxílio na organização e criação desse arquivo md
 
 Nenhuma etapa de validação cruzada, interpretação dos fenômenos políticos/econômicos ou tomada de decisão metodológica sobre os modelos foi delegada de forma autônoma às ferramentas de IA. A autoria analítica pertence integralmente ao grupo.
